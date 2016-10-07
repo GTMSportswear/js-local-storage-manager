@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es6",
+    "module": "es6",
+    "removeComments": true,
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "exclude": [
+    ".baseDir.ts",
+    "lib",
+    "node_modules"
+  ]
+}

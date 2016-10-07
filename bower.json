@@ -1,0 +1,25 @@
+{
+  "name": "gtmsportswear.com",
+  "version": "1.0.0",
+  "authors": [
+    "It's Greek To Me, Inc."
+  ],
+  "description": "",
+  "main": "",
+  "license": "None",
+  "homepage": "http://gtmsportswear.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "system.js": "^0.19.31",
+    "traceur": "^0.0.111"
+  },
+  "devDependencies": {}
+}
