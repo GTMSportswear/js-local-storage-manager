@@ -1,0 +1,33 @@
+{
+  "name": "js-local-storage-manager",
+  "version": "1.0.0",
+  "description": "A wrapper for Local Storage in the browser.",
+  "main": "dist/local-storage-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtmsportswear/js-local-storage-manager.git"
+  },
+  "keywords": [
+    "gtmsportswear",
+    "gtm",
+    "localStorage",
+    "systemjs",
+    "jspm"
+  ],
+  "files": [
+    "dist/**/*"
+  ],
+  "author": "Nick George",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gtmsportswear/js-local-storage-manager/issues"
+  },
+  "homepage": "https://github.com/gtmsportswear/js-local-storage-manager#readme",
+  "devDependencies": {
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.3"
+  }
+}
