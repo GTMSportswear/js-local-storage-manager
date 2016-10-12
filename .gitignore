@@ -25,6 +25,8 @@ build/Release
 
 # Dependency directory
 node_modules
+bower_components
+lib
 
 # Optional npm cache directory
 .npm
@@ -32,6 +34,4 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
-# Bower Libraries
-bower_components
-lib
+# distribution files, should be compiled
