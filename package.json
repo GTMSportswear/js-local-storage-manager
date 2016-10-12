@@ -1,8 +1,8 @@
 {
   "name": "js-local-storage-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper for Local Storage in the browser.",
-  "main": "dist/local-storage-manager.js",
+  "main": "src/local-storage-manager.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,8 +18,11 @@
     "jspm"
   ],
   "files": [
-    "dist/**/*"
+    "src/**/*"
   ],
+  "directories": {
+    "lib": "src"
+  },
   "author": "Nick George",
   "license": "MIT",
   "bugs": {

@@ -35,3 +35,4 @@ lib
 .node_repl_history
 
 # distribution files, should be compiled
+dist
