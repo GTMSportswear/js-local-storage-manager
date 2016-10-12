@@ -1,6 +1,6 @@
 {
   "name": "js-local-storage-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper for Local Storage in the browser.",
   "main": "src/local-storage-manager.ts",
   "scripts": {
