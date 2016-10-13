@@ -1,7 +1,8 @@
 {
   "name": "js-local-storage-manager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A wrapper for Local Storage in the browser.",
+  "author": "Nick George",
   "main": "src/local-storage-manager.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,7 +24,7 @@
   "directories": {
     "lib": "src"
   },
-  "author": "Nick George",
+  "format": "esm",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gtmsportswear/js-local-storage-manager/issues"
